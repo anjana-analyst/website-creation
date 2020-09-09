@@ -1,0 +1,21 @@
+p{
+    font-family:"Courier New",'Courier New', Courier, monospace ; 
+}
+body{
+    
+    background-attachment: fixed;
+    background-color: blueviolet;
+}
+h1 {
+   color:red;
+   font-size: 30pt;
+   text-shadow:5px 2px 4px grey;
+}
+div{
+    color:gold;
+    font-weight:bold ;
+}
+p{
+    padding:30px;
+    background-image:
+}
