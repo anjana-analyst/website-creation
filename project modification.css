@@ -4,7 +4,7 @@ p{
 body{
     
     background-attachment: fixed;
-    background-color: Lightblue;
+    background-color: blueviolet;
 }
 h1 {
    color:red;
@@ -12,12 +12,3 @@ h1 {
    text-shadow:5px 2px 4px grey;
 }
 
-body{
-  height: 100vh;
-  min-height: 350px;
-  background: no-repeat center center scroll;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
