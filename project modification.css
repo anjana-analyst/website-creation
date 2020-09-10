@@ -11,11 +11,13 @@ h1 {
    font-size: 30pt;
    text-shadow:5px 2px 4px grey;
 }
-div{
-    color:gold;
-    font-weight:bold ;
-}
-p{
-    padding:30px;
-    background-image:
+
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
