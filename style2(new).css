@@ -6,8 +6,8 @@
 
 header
 {
-  background-image:linear-gradient(rgba(000000,0,0,1), rgba(000000,0,0,0)), url(../2.jpg);
-  height: 100vh;
+  background-image: url(../2.jpg);
+  height:100vh;
   background-size: cover;
   background-position: top;
 }
@@ -53,13 +53,10 @@ ul li.active3 a{
   color: #fff;
 }
 ul li.active4 a{
-  background-color: DarkMagenta;
+  background-color: #6786;
   color: #fff;
 }
-ul li.active5 a{
-  background-color: #000080;
-  color: #fff;
-}
+
 .logo img{
   float: left;
   width: 150px;
