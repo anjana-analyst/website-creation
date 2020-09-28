@@ -1,0 +1,51 @@
+<style>
+title
+{
+  font-style:monospace;
+}
+body
+{
+  background:indigo;
+}
+*{
+  box-sizing:border-box;
+  -webkit-box-sizing:border-box;
+  -moz-box-sizing:border-box;
+}
+.wrap
+{
+  width:450px;
+  margin:auto;
+  height:auto;
+  background:black;
+  padding:30px;
+}
+input[type=text]
+{
+  width:95%;
+  padding:10px;
+  font-size:22px;
+  font-weight:bold;
+  margin-top:20;
+}
+input[type=reset]
+{
+  width:90px;
+  padding:10px;
+  font-size:24px;
+  font-weight:strong;
+  border-radius:10px;
+}
+input[type=button]
+{
+  width:90px;
+  padding:10px;
+  font-size:24px;
+  font-weight:strong;
+  border-radius:10px;
+}
+#del
+{
+  width:95%;
+}
+</style>
